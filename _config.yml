@@ -12,7 +12,7 @@ redcarpet:
 
 # 核心设置
 title : 天天向上
-tagline: 好好学习，天天向上
+tagline: 好好学习，天天向上...
 keywords : linux ,machine learning ,data mining , R , Hadoop ,Spark
 description: linux ,machine learning ,data mining , R , Hadoop ,Spark
 author :
@@ -29,7 +29,7 @@ author :
 production_url : http://daydayuper.vicp.net
 
 # 七牛云，http://<Bucket>.qiniudn.com
-qiniudn : http://havee.qiniudn.com 
+qiniudn: //havee.qiniudn.com
 
 
 
